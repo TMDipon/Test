@@ -1,0 +1,62 @@
+
+Packet with seqnum: 0, checksum: 1842, data: aaaaaaaaaaaaaaaaaaa sent
+Receiver received pkt with seqnum: 0 correctly and sent ACK with acknum: 0
+Sent the message to layer(5)
+Base at: 1 for getting ACK with acknum: 0
+Packet with seqnum: 1, checksum: 1862, data: bbbbbbbbbbbbbbbbbbb sent
+Receiver received pkt with seqnum: 1 correctly and sent ACK with acknum: 1
+Sent the message to layer(5)
+Base at: 2 for getting ACK with acknum: 1
+Packet with seqnum: 2, checksum: 1882, data: ccccccccccccccccccc sent
+Receiver received pkt with seqnum: 2 correctly and sent ACK with acknum: 2
+Sent the message to layer(5)
+Base at: 3 for getting ACK with acknum: 2
+Packet with seqnum: 3, checksum: 1902, data: ddddddddddddddddddd sent
+Receiver received pkt with seqnum: 3 correctly and sent ACK with acknum: 3
+Sent the message to layer(5)
+Packet with seqnum: 4, checksum: 1922, data: eeeeeeeeeeeeeeeeeee sent
+Receiver received pkt with seqnum: 4 correctly and sent ACK with acknum: 4
+Sent the message to layer(5)
+Base at: 4 for getting ACK with acknum: 3
+Packet with seqnum: 5, checksum: 1942, data: fffffffffffffffffff sent
+Base at: 5 for getting ACK with acknum: 4
+Receiver received pkt with seqnum: 5 correctly and sent ACK with acknum: 5
+Sent the message to layer(5)
+Base at: 6 for getting ACK with acknum: 5
+Packet with seqnum: 6, checksum: 1962, data: ggggggggggggggggggg sent
+Receiver received pkt with seqnum: 6 correctly and sent ACK with acknum: 6
+Sent the message to layer(5)
+Packet with seqnum: 7, checksum: 1982, data: hhhhhhhhhhhhhhhhhhh sent
+Receiver received pkt with seqnum: 7 correctly and sent ACK with acknum: 7
+Sent the message to layer(5)
+Base at: 7 for getting ACK with acknum: 6
+Base at: 0 for getting ACK with acknum: 7
+Packet with seqnum: 0, checksum: 1994, data: iiiiiiiiiiiiiiiiiii sent
+Receiver received pkt with seqnum: 0 correctly and sent ACK with acknum: 0
+Sent the message to layer(5)
+Base at: 1 for getting ACK with acknum: 0
+Packet with seqnum: 1, checksum: 2014, data: jjjjjjjjjjjjjjjjjjj sent
+Receiver received pkt with seqnum: 1 correctly and sent ACK with acknum: 1
+Sent the message to layer(5)
+Base at: 2 for getting ACK with acknum: 1
+Packet with seqnum: 2, checksum: 2034, data: kkkkkkkkkkkkkkkkkkk sent
+Receiver received pkt with seqnum: 2 correctly and sent ACK with acknum: 2
+Sent the message to layer(5)
+Packet with seqnum: 3, checksum: 2054, data: lllllllllllllllllll sent
+Base at: 3 for getting ACK with acknum: 2
+Receiver received pkt with seqnum: 3 correctly and sent ACK with acknum: 3
+Sent the message to layer(5)
+Packet with seqnum: 4, checksum: 2074, data: mmmmmmmmmmmmmmmmmmm sent
+Base at: 4 for getting ACK with acknum: 3
+Packet with seqnum: 5, checksum: 2094, data: nnnnnnnnnnnnnnnnnnn sent
+Receiver received pkt with seqnum: 4 correctly and sent ACK with acknum: 4
+Sent the message to layer(5)
+Receiver received pkt with seqnum: 5 correctly and sent ACK with acknum: 5
+Sent the message to layer(5)
+Base at: 5 for getting ACK with acknum: 4
+Base at: 6 for getting ACK with acknum: 5
+Packet with seqnum: 6, checksum: 2114, data: ooooooooooooooooooo sent
+Receiver received pkt with seqnum: 6 correctly and sent ACK with acknum: 6
+Sent the message to layer(5)
+Base at: 7 for getting ACK with acknum: 6 Simulator terminated at time 234.306229
+ after sending 15 msgs from layer5
